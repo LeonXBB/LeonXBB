@@ -30,7 +30,7 @@ Lev Barenboim
    <b>Backend & Development</b>
  </div>
 
-`Django (+ REST + ORM)`   
+`Django (+ DRF)`   
 `Flask`  
 `FastAPI`    
 `Kivy`  
@@ -43,8 +43,8 @@ Lev Barenboim
    <b>DBs</b>
  </div>
  
+`PostgreSQL (Design and Normalization)`   
 `MySQL`  
-`PostgreSQL`   
 `Redis`  
 
  <div align="center">
@@ -75,7 +75,9 @@ Lev Barenboim
    <b>Web</b>
  </div>
  
-`HTML/CSS`  
+`HTML/CSS`
+`REST`
+`JSON`
 `jQuery`  
 `sockets (Django Channels)`  
 `BEM`    
